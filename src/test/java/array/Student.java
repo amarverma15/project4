@@ -6,6 +6,7 @@ public class Student {
 		for(String temp:a)
 		{
 			System.out.println(temp);
+			System.out.println("sdfghj");
 		}
 	}
 
