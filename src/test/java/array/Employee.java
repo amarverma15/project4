@@ -10,6 +10,11 @@ public class Employee {
 	@Override
 	public String toString() {
 		return "id="+id+",name="+name;
+	
+	}
+	private void syso() {
+		// TODO Auto-generated method stub
+
 	}
 
 }
